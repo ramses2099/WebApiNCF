@@ -61,17 +61,17 @@ namespace WebApiNCF.Services
                                     //
                                     if (dr["Cantidad_Disponible"] != DBNull.Value)
                                     {
-                                        rs.NCF = dr["Cantidad_Disponible"].ToString();
+                                        rs.Cantidad_Disponible = dr["Cantidad_Disponible"].ToString();
                                     }
                                     //
                                     if (dr["Fecha_Vencimiento"] != DBNull.Value)
                                     {
-                                        rs.NCF = dr["Fecha_Vencimiento"].ToString();
+                                        rs.Fecha_Vencimiento = dr["Fecha_Vencimiento"].ToString();
                                     }
                                     //
                                     if (dr["Mensaje"] != DBNull.Value)
                                     {
-                                        rs.NCF = dr["Mensaje"].ToString();
+                                        rs.Mensaje = dr["Mensaje"].ToString();
                                     }
                                     //
                                 }
