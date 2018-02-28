@@ -88,6 +88,5 @@ C:\Users\jose.encarnacion\Source\Repos\WebApiNCF\WebApiNCF\WebApiNCF\bin\Microso
 C:\Users\jose.encarnacion\Source\Repos\WebApiNCF\WebApiNCF\WebApiNCF\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\jose.encarnacion\Source\Repos\WebApiNCF\WebApiNCF\WebApiNCF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\jose.encarnacion\Source\Repos\WebApiNCF\WebApiNCF\WebApiNCF\bin\System.Web.Http.Owin.xml
-C:\Users\jose.encarnacion\Source\Repos\WebApiNCF\WebApiNCF\WebApiNCF\obj\Debug\WebApiNCF.csprojResolveAssemblyReference.cache
 C:\Users\jose.encarnacion\Source\Repos\WebApiNCF\WebApiNCF\WebApiNCF\obj\Debug\WebApiNCF.dll
 C:\Users\jose.encarnacion\Source\Repos\WebApiNCF\WebApiNCF\WebApiNCF\obj\Debug\WebApiNCF.pdb

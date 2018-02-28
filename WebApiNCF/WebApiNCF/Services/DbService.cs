@@ -91,9 +91,7 @@ namespace WebApiNCF.Services
 
             return rs;
         }
-
-
-
+        
 
     }
 }
