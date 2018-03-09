@@ -25,11 +25,11 @@
                 return;
             }
 
-            var param = { 'TipoSecuencia': TipoSecuencia, 'Sistema': Sistema, 'NumeroFactura': NumeroFactura };
+            var param = { 'TipoSecuencia': TipoSecuencia, 'Sistema': Sistema, 'NumeroFactura': NumeroFactura,'Message':'' };
 
-            var url = 'http://hit-app02/WebApiNcf/api/NCF';
+           // var url = 'http://hit-app02/WebApiNcf/api/NCF';
 
-            //var url = '../api/NCF';
+           // var url = '../api/NCFXml';
 
             $.ajax({
                 type: "POST",
@@ -38,6 +38,8 @@
                 url: url
             }).done(function (data) {
 
+                //console.log(data);
+                
                 var ncf = data.NCF;
                 var cantidaddisponible = data.Cantidad_Disponible;
                 var fechavencimiento = data.Fecha_Vencimiento;

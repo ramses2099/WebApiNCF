@@ -232,7 +232,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/WebApiNCF.dll">
-      <publishTime>02/23/2018 16:04:56</publishTime>
+      <publishTime>02/28/2018 17:30:48</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>09/10/2013 17:28:38</publishTime>
@@ -337,7 +337,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/21/2018 16:46:37</publishTime>
     </File>
     <File Include="Views/UI/Index.cshtml">
-      <publishTime>02/23/2018 16:30:05</publishTime>
+      <publishTime>02/28/2018 17:29:58</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>02/21/2018 16:35:59</publishTime>
